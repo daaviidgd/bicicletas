@@ -1,6 +1,9 @@
 body{
  	background-color:blue;
-	font-color:red;
+	color:red;
 
+}
+h1{
+	font-style:italic;
 }
 
